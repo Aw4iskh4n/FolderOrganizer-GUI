@@ -26,7 +26,7 @@ The File Organizer Tool is a seamless solution designed to help users declutter 
 
 2-  Navigate to the directory:
 
-    cd FileOrganizerTool
+    cd FileOrganizer-GUI
 
 3-  Run the tool:
 
