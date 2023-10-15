@@ -22,7 +22,7 @@ The File Organizer Tool is a seamless solution designed to help users declutter 
 
 1-  Clone the repository:
 
-    git clone https://github.com/your_username/FileOrganizer-GUI.git
+    git clone https://github.com/FolderOrganizer-GUI/FileOrganizer-GUI.git
 
 2-  Navigate to the directory:
 
